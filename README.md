@@ -56,7 +56,7 @@ Siga estos pasos para clonar, configurar el entorno virtual e iniciar la aplicac
 
 ### 1. Clonar o descargar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/ProyectoCifrado.git
+git clone https://github.com/Luchocorrea1/ProyectoCifrado.git
 cd ProyectoCifrado
 ```
 
